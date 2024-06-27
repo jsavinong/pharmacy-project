@@ -1,0 +1,4 @@
+boticavenv/
+*.pyc
+__pycache__/
+.vscode/
